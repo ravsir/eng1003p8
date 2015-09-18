@@ -12,3 +12,12 @@ Preferred branch of engineering: Electrical Engineer
 MEMBER 3 SAM KKAROPOULOS
 
 MEMBER 4 RAVINDU SIRIMANNA
+<<<<<<< HEAD
+=======
+
+intro: excited for the weekend
+
+role in project: programmer, app designer
+
+Preferred branch of engineerin: Mechatronics 
+>>>>>>> master
