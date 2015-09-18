@@ -7,3 +7,9 @@ MEMBER 2 FIONA TING
 MEMBER 3 SAM KKAROPOULOS
 
 MEMBER 4 RAVINDU SIRIMANNA
+
+intro: excited for the weekend
+
+role in project: programmer, app designer
+
+Preferred branch of engineerin: Mechatronics 
